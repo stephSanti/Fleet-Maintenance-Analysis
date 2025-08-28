@@ -38,3 +38,5 @@ The final dashboard was built in Tableau Public and visually presents:
 - Filtering with WHERE and IN clauses
 - Creating new tables and inserting batch records
 - Exporting CSV data for visualization
+
+This project was created as part of the DAD-220 SQL course, focusing on practical database analysis and data visualization.
