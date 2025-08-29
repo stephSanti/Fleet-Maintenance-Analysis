@@ -18,7 +18,7 @@ Fuel tank issues by make and year
 
 Visual Dashboard
 
-View the Tableau dashboard here: https://bit.ly/FleetRepairsDashboard 
+View the Tableau dashboard here: https://public.tableau.com/app/profile/stephanie.santiago1746/viz/FleetMaintenanceRecords/FleetRepairTrendsDashboard#1 
 
 Files Included
 
